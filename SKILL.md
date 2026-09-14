@@ -36,7 +36,7 @@ Use this priority order:
 
 Prefer concrete, observable constraints over repeated adjectives. Replace generic instructions such as "do not change the product" with category-specific locks: silhouette, proportions, openings, seams, hardware, printed artwork, component count, and attachment points.
 
-For visual design decisions, read [references/aesthetics.md](references/aesthetics.md). For category fidelity and lighting, read [references/product-rules.md](references/product-rules.md) for the relevant category only.
+For visual design decisions, read [references/aesthetics.md](references/aesthetics.md) and choose from [references/style-options.md](references/style-options.md). For category fidelity and lighting, read [references/product-rules.md](references/product-rules.md) for the relevant category only.
 
 ## Text and layouts
 
