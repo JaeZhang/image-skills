@@ -1,0 +1,4 @@
+interface:
+  display_name: "Etsy 美学出图"
+  short_description: "生成美观、准确且可验收的 Etsy 产品出图提示词"
+  default_prompt: "Use $etsy-image-studio to create an aesthetic, product-faithful Etsy image prompt from my product references."
