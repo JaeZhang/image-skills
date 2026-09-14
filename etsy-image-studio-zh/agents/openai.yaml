@@ -1,0 +1,7 @@
+interface:
+  display_name: "Etsy 美学出图（中文）"
+  short_description: "用中文生成兼顾保真、构图和配色的 Etsy 商品图片"
+  default_prompt: "使用 $etsy-image-studio-zh 根据我的产品参考图设计并生成一套兼顾保真、构图和配色的 Etsy 商品图片。"
+
+policy:
+  allow_implicit_invocation: true
