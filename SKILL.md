@@ -5,6 +5,8 @@ description: Plan, generate, edit, or refine Etsy product images and production-
 
 # Etsy Image Studio
 
+For the bilingual user manual, see [USER_GUIDE.zh-en.md](USER_GUIDE.zh-en.md).
+
 Turn the user's product references and listing goal into a concise, production-ready prompt or shot set. Optimize for product fidelity first, then legibility at Etsy thumbnail size, then visual appeal.
 
 If the user requests finished raster images and an image-generation or image-editing tool is available, render the images after defining the product locks and visual direction. If no rendering tool is available, provide the final prompt and shot plan without implying that an image was created.
